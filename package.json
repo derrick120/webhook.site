@@ -17,7 +17,7 @@
     "highlight.js": "^9.15.10",
     "jquery": "^3.4.1",
     "json-bigint": "^0.3.0",
-    "laravel-echo": "^1.6.1",
+    "laravel-echo": "^1.17.0",
     "laravel-elixir": "^6.0.0-18",
     "moment": "^2.24.0",
     "pretty-data": "^0.40.0",
